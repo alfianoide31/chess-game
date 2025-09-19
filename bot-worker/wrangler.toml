@@ -1,0 +1,6 @@
+name = "chess-bot"
+main = "bot-worker.js"
+compatibility_date = "2023-09-01"
+
+[vars]
+BOT_TOKEN = "7665056864:AAFycipkk79jd9gINck-ds7M1LQg5BsexZ0"
